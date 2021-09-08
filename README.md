@@ -6,6 +6,9 @@ Feel free to create any issues for content that could be improved.
 
 Also feel free to add your own content via a Pull Request.
 
+Join our Telegram Group for regular audio chats and open discussion on AWS.
+[https://t.me/joinchat/pvave2fn6pUyMTEx](https://t.me/joinchat/pvave2fn6pUyMTEx)
+
 ## List of tools
 
 This list of tools are used by our AWS Expert members.
