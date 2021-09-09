@@ -15,11 +15,15 @@ This list of tools are used by our AWS Expert members.
 
 ### Infrastructure as Code
 
-[Pulumi](https://www.pulumi.com/)
-Build, deploy, and manage modern cloud applications and infrastructure using familiar languages, tools, and engineering practices.
+- [Pulumi](https://www.pulumi.com/)
+  Build, deploy, and manage modern cloud applications and infrastructure using familiar languages, tools, and engineering practices.
 
-[Terraform](https://www.terraform.io/)
-Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
+- [Terraform](https://www.terraform.io/)
+  Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies   cloud APIs into declarative configuration files.
+
+- [Ansible](https://docs.ansible.com/ansible/latest/scenario_guides/guide_aws.html)
+
+- [AWS-CDK](https://aws.amazon.com/cdk/)
 
 ## List of resources
 
