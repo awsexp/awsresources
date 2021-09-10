@@ -29,7 +29,7 @@ Terraform is an open-source infrastructure as code software tool that provides a
 - [CrossPlane](https://doc.crds.dev/github.com/crossplane/provider-aws)
 
 
-## List of resources
+### List of resources
 ---
 
 - [Spot.io](https://spot.io)
