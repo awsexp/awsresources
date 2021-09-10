@@ -30,7 +30,8 @@ Terraform is an open-source infrastructure as code software tool that provides a
 
 ## List of resources
 ---
-- Spot.io
+
+- [Spot.io](https://spot.io)
 - [Turbot](https://turbot.com/features/aws/)
 - [Steampipe](https://steampipe.io/)
 
