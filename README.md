@@ -14,14 +14,27 @@ Join our Telegram Group for regular audio chats and open discussion on AWS.
 This list of tools are used by our AWS Expert members.
 
 ### Infrastructure as Code
+---
 
-[Pulumi](https://www.pulumi.com/)
+- [Pulumi](https://www.pulumi.com/)
 Build, deploy, and manage modern cloud applications and infrastructure using familiar languages, tools, and engineering practices.
 
-[Terraform](https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/)
 Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
 
-## List of resources
+- [Ansible](https://docs.ansible.com/ansible/latest/scenario_guides/guide_aws.html)
+
+- [AWSCDK](https://aws.amazon.com/cdk/)
+
+- [CrossPlane](https://doc.crds.dev/github.com/crossplane/provider-aws)
+
+
+### List of resources
+---
+
+- [Spot.io](https://spot.io)
+- [Turbot](https://turbot.com/features/aws/)
+- [Steampipe](https://steampipe.io/)
 
 Online links for helping you secure, operate, develop and manage AWS
 
