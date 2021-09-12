@@ -40,6 +40,17 @@ Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation R
 - [Cloudformation Guard](https://github.com/aws-cloudformation/cloudformation-guard)
 Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. 
 
+- [cfn_nag](https://github.com/stelligent/cfn_nag)
+The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
+
+#### AWS Cloud Development Kit
+---
+
+- [CDK Watchful](https://github.com/cdklabs/cdk-watchful)
+Watchful is an AWS CDK construct library that makes it easy to monitor CDK apps. It automatically synthesizes alarms and dashboards for supported AWS resources.
+
+- [CDK Nag](https://github.com/cdklabs/cdk-nag)
+Check CDK applications for best practices using a combination of available rule packs. Inspired by cfn_nag
 
 ### List of resources
 ---
