@@ -29,7 +29,6 @@ Terraform is an open-source infrastructure as code software tool that provides a
 - [CrossPlane](https://doc.crds.dev/github.com/crossplane/provider-aws)
 
 #### Cloudformation
----
 
 - [TaskCat](https://github.com/aws-quickstart/taskcat)
 Taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region
@@ -44,7 +43,6 @@ Guard offers a policy-as-code domain-specific language (DSL) to write rules and 
 The cfn-nag tool looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
 
 #### AWS Cloud Development Kit
----
 
 - [CDK Watchful](https://github.com/cdklabs/cdk-watchful)
 Watchful is an AWS CDK construct library that makes it easy to monitor CDK apps. It automatically synthesizes alarms and dashboards for supported AWS resources.
