@@ -28,6 +28,18 @@ Terraform is an open-source infrastructure as code software tool that provides a
 
 - [CrossPlane](https://doc.crds.dev/github.com/crossplane/provider-aws)
 
+#### Cloudformation
+---
+
+- [TaskCat](https://github.com/aws-quickstart/taskcat)
+Taskcat is a tool that tests AWS CloudFormation templates. It deploys your AWS CloudFormation template in multiple AWS Regions and generates a report with a pass/fail grade for each region
+
+- [cfn-lint](https://github.com/aws-cloudformation/cfn-lint)
+Validate AWS CloudFormation yaml/json templates against the AWS CloudFormation Resource Specification and additional checks.
+
+- [Cloudformation Guard](https://github.com/aws-cloudformation/cloudformation-guard)
+Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. 
+
 
 ### List of resources
 ---
