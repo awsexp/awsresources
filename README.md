@@ -50,6 +50,18 @@ Watchful is an AWS CDK construct library that makes it easy to monitor CDK apps.
 - [CDK Nag](https://github.com/cdklabs/cdk-nag)
 Check CDK applications for best practices using a combination of available rule packs. Inspired by cfn_nag
 
+### Dev Tools
+---
+
+- [Serverless Dev Tools](https://github.com/Theodo-UK/sls-dev-tools)
+The Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
+
+- [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced
+
+- [IAM Floyd](https://github.com/udondan/iam-floyd)
+AWS IAM policy statement generator with fluent interface 
+
 ### List of resources
 ---
 
