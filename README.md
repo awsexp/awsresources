@@ -62,6 +62,12 @@ AWS Lambda Power Tuning is an open-source tool that can help you visualize and f
 - [IAM Floyd](https://github.com/udondan/iam-floyd)
 AWS IAM policy statement generator with fluent interface 
 
+### Management & Governance
+---
+
+- [superwerker](https://github.com/superwerker/superwerker)
+Open-source solution to automate the setup of an multiacount AWS Cloud environment with prescriptive best practices. 
+
 ### List of resources
 ---
 
